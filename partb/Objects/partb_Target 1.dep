@@ -1,0 +1,9 @@
+Dependencies for Project 'partb', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\Startup.s)(0x5E98C9CD)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 529"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\init.h)(0x5E9B75DE)()
+F (.\init.c)(0x5E9BF8BB)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="529"-o .\objects\init.o --omf_browse .\objects\init.crf --depend .\objects\init.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc214x.h)(0x559CFE30)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5D9AF542)
+I (init.h)(0x5E9B75DE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AF540)
