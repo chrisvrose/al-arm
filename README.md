@@ -1,4 +1,4 @@
-# mces4-alarm
+# al-ARM
 Alarm clock with an usable UI. Use joystick to manipulate
 
 ## Required Components
@@ -21,8 +21,12 @@ Alarm clock with an usable UI. Use joystick to manipulate
  1. Load project in Keil uVision 5(/4?)
  2. Flash and reset
  
- ### Note
+ ### Design
 
-Cannot guarantee _anything_ about the code.
 
-*Will* need further testing.
+<details>
+<summary>Circuit diagram</summary> 
+
+ ![Circuit diagram](./partb/circuit-fixed.png)
+
+</details>
